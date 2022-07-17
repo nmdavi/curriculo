@@ -1,11 +1,13 @@
-DAVI NASCIMENTO DE MENDONÇA
 22 anos - brasileiro - solteiro
-R. Conêgo José Bento, Centro - Jacarei / SP, 12308-530
-davimendonca@protonmail.com - (12) 98807-8522
-DESENVOLVEDOR .NET
-https://github.com/nmdavi
 
-EXPERIÊNCIA
+Jacarei / SP, 12308-530
+
+davimendonca@protonmail.com - (12) 98807-8522
+
+### DESENVOLVEDOR .NET
+
+### EXPERIÊNCIA
+
 Neobetel Tudo em EPI's (ramo de distribuição) – (03/11/2020 – até o momento)
 Cargo: Desenvolvedor Trainee
 -	Manutenção e migração do ERP em VB6 para .NET
@@ -19,11 +21,16 @@ Cargo: Desenvolvedor Trainee
 -	SQL Server (Procedures, Functions, Triggers e Views) e MySQL
 -	GIT e Bitbucket
 
-HABILIDADES TÉCNICAS
+### HABILIDADES TÉCNICAS
+
 Back-End: .NET, ASP.NET (Web Forms e MVC), Xamarin Forms, C#, Visual Basic 6.0, Visual Basic .NET e PHP
+
 Front-End: HTML, CSS e JavaScript
+
 Banco de Dados: SQL Server (Procedures, Functions, Triggers e Views) e MySQL
+
 Versionamento: GIT e Bitbucket
 
-ESCOLARIDADE
+### ESCOLARIDADE
+
 Ensino Médio - Completo
