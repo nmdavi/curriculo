@@ -11,6 +11,7 @@ davimendonca@protonmail.com - (12) 98807-8522
 ### EXPERIÊNCIA
 
 Neobetel Tudo em EPI's (ramo de distribuição) – (03/11/2020 – até o momento)
+
 Cargo: Desenvolvedor Trainee
 -	Manutenção e migração do ERP em VB6 para .NET
 -	Integração com e-commerce
